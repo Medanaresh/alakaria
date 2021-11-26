@@ -1,0 +1,9 @@
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:ser="http://services.RSS.tadawul.com">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <ser:getDetailQuoteForCompany>
+         <companyId>4020</companyId>
+         <secureKey>2549867825</secureKey>
+      </ser:getDetailQuoteForCompany>
+   </soapenv:Body>
+</soapenv:Envelope>
