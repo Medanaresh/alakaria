@@ -1,0 +1,36 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2021-11-24 00:33:15 --> 404 Page Not Found: _ignition/execute_solution
+ERROR - 2021-11-24 01:13:02 --> 404 Page Not Found: Actuator/health
+ERROR - 2021-11-24 01:39:12 --> 404 Page Not Found: Env/index
+ERROR - 2021-11-24 02:52:05 --> 404 Page Not Found: Env/index
+ERROR - 2021-11-24 03:00:37 --> 404 Page Not Found: Cgi_bin/.%2e
+ERROR - 2021-11-24 03:26:39 --> 404 Page Not Found: Autodiscover/autodiscover.json
+ERROR - 2021-11-24 03:26:40 --> 404 Page Not Found: Autodiscover/autodiscover.json
+ERROR - 2021-11-24 03:26:40 --> 404 Page Not Found: Autodiscover/autodiscover.json
+ERROR - 2021-11-24 03:26:46 --> 404 Page Not Found: Autodiscover/autodiscover.json
+ERROR - 2021-11-24 03:50:11 --> 404 Page Not Found: GponForm/diag_Form
+ERROR - 2021-11-24 04:10:03 --> 404 Page Not Found: Autodiscover/autodiscover.json
+ERROR - 2021-11-24 04:10:03 --> 404 Page Not Found: Autodiscover/autodiscover.json
+ERROR - 2021-11-24 04:10:03 --> 404 Page Not Found: Autodiscover/autodiscover.json
+ERROR - 2021-11-24 04:10:03 --> 404 Page Not Found: Autodiscover/autodiscover.json
+ERROR - 2021-11-24 04:42:19 --> 404 Page Not Found: Faviconico/index
+ERROR - 2021-11-24 04:59:22 --> 404 Page Not Found: Faviconico/index
+ERROR - 2021-11-24 05:38:32 --> 404 Page Not Found: Resolve/index
+ERROR - 2021-11-24 06:41:42 --> 404 Page Not Found: Sitecore/shell
+ERROR - 2021-11-24 07:26:32 --> 404 Page Not Found: Env/index
+ERROR - 2021-11-24 13:17:17 --> 404 Page Not Found: Env/index
+ERROR - 2021-11-24 13:57:37 --> 404 Page Not Found: Vendor/phpunit
+ERROR - 2021-11-24 14:52:38 --> 404 Page Not Found: Cgi_bin/.%2e
+ERROR - 2021-11-24 14:52:38 --> 404 Page Not Found: DS_Store/index
+ERROR - 2021-11-24 14:52:39 --> 404 Page Not Found: Telescope/requests
+ERROR - 2021-11-24 15:09:27 --> 404 Page Not Found: Vendor/phpunit
+ERROR - 2021-11-24 18:10:04 --> 404 Page Not Found: Ecp/Current
+ERROR - 2021-11-24 18:14:49 --> 404 Page Not Found: Console/index
+ERROR - 2021-11-24 19:40:03 --> 404 Page Not Found: Autodiscover/Autodiscover.xml
+ERROR - 2021-11-24 20:25:12 --> 404 Page Not Found: Resolve/index
+ERROR - 2021-11-24 20:45:48 --> 404 Page Not Found: Owa/auth
+ERROR - 2021-11-24 22:44:14 --> 404 Page Not Found: Cgi_bin/.%2e
+ERROR - 2021-11-24 22:44:17 --> 404 Page Not Found: Ecp/Current
+ERROR - 2021-11-24 22:46:09 --> 404 Page Not Found: Owa/auth
+ERROR - 2021-11-24 22:46:27 --> 404 Page Not Found: Owa/auth
