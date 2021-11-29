@@ -1,0 +1,866 @@
+
+VMAX LOGINS
+------------------------
+egovindia.in
+egovind
+s6Z1#z161df&fr7)m+IR9e
+101.53.144.81
+  Database : egovindia_commercialmapping
+
+
+
+-------------------------------------------
+
+
+
+https://urbangis.in/nagaram/dashboard  
+Domain: urbangis.in | 
+Ip: 101.53.144.81 (n) | HasCgi: y | 
+UserName: urbangis |
+ PassWord: w3)iW*7lG5sW
+
+
+----------------------
+old mail password :- vmax@4321
+new mail password :- VMAX@1234
+
+
+----------------------
+
+
+
+ahanaapellanta.com
+ahanapelanta
+FW8!8&_Ms@1kd*G
+101.53.144.81
+
+
+leadermate.in
+leadermate
+a!IkEnXr{-XX
+101.53.144.81
+   https://leadermate.in/pms/   
+usename & password : admin
+petetion-view
+
+
+
+
+
+URL: ahdts.egovindia.in
+
+Username:  ahdts
+Password: euG@dgw3-T)*
+
+IP: 101.53.144.81
+
+
+
+DB::enableQueryLog(); dd(DB::getQueryLog());  
+
+
+survey.mcnizamabad.in
+surveynizamaba
+7Uft>KQ?#$fV5%*?}!3B
+101.53.144.81
+
+
+
+
+
+
+
+http://helloap2tg.com/epapersnews/login.php
+*******************************
+
+http://biometricattendance.co/smarttouch/   
+username : test
+password: test@1234
+biometricattendance.co
+biometricatendc
+T7972$B~&wH123dkjwrnE+@*6
+101.53.144.81
+
+*******************************
+
+ tsurbandashboard.com
+tsurbandashbrd
+c]KeN7WxlP9[d@37dg#!1HD
+101.53.144.81
+
+******************************
+  http://edurate.co/   
+edurate.co
+edurate
+Eq1RYfb$ROoRbwO
+101.53.144.81
+   http://edurate.co   
+moderator
+*******************************
+
+sumuhurtham.in
+sumuhurtham
+k@id9qZ[Ti,Z!rBaBi#djmn1
+101.53.144.81 
+
+*******************************
+
+estp.tsmepma.in
+estpmepma
+h$%~a#vX_N7.s8
+101.53.144.81
+
+
+*******************************
+URL: https://101.53.144.81:2083/
+
+username: pgpadmissionsiim
+password: 9sd2hs*Jg@1ue#ru0-63hv
+
+**************************
+tsmepma.in
+tmepma
+dD$H37h2J_aM*+AR{!bdPd9)
+http://101.53.144.81:2083/
+**************************
+
+municipalservices.in
+municipalservce
+iwe&2dn=a@i9$4s87G
+101.53.144.81
+**************************
+http://apteachers9.in:2082/
+username : questpub
+password : Dinesh@786##
+
+**************************
+shelter.tsmepma.in
+sheltermepma
+UuSPXUa8K-!d
+101.53.144.81
+**************************
+
+municipalservce_otpfeedback
+wrku?LOKcEZ5
+
+
+
+IIMV Live host
+database:pgpadmis_admissions
+username:pgpadmis_admin
+pwd:$Qo{N!FyHK-m
+-----
+Domain for IIMV shall be pgpadmissions.iimv.ac.in
+
+Username: pgpadmissionsiim
+password: vo0-oe4C=1.BC#sd1
+IP:  103.74.54.113:2083
+
+***************
+101.53.144.81
+mahadma.in
+mahdma
+Wd21X-_tf28$b{J
+
+*************************
+
+
+biometricattendence------
+
+
+
+biometricatendc
+T7972$B~&wH123dkjwrnE+@*6
+168.144.97.45
+
+
+
+
+*********************
+
+| Domain: leadersmate.in | Ip: 103.74.54.113 (n) | HasCgi: y | 
+UserName:leadersmate | 
+PassWord: Nb@%N!ZmE3#2
+DATEBASE
+username:leadersm_iimv
+password:J+KY-R0)qHdD
+*************************
+mahasuhsurvey database
+uid:mahdma_suhsurvey
+pwd:?FroM&RcV.l.
+*************************
+urbandasboard
+f?Mga,I@3o831D$[QJy
+101.53.144.81
+////////
+Database
+urbandasboard_iimv
+pwd:i63]Mr%P8U)i
+///////
+
+leadermate.in
+leadermate
+a!IkEnXr{-XX
+101.53.144.81
+
+DATABASE
+---------
+uid:leadermate_ems
+pwd:RSZb?Krm[X$.
+
+*****************
+Election management system
+************************
+database---
+
+uid:tmepma_ems
+pwd:-w;2y%z,BKhE
+
+
+************************
+Boduppal Dummy Database
+
+uid:surveyboduppal_boduppal_survey_test
+pwd:B7Cy9N)Z{b;~
+************************
+-------------
+TSTOURISM
+
+db
+vmaxsdmg_tstourism
+9QQ=811+Vs8y
+--------------
+LMS  Database
+
+user:municipalservce_lms
+pwd:37W^U?7oAEuV
+...............
+
+vnews database
+uid:vmaxsdmg_vnews
+pwd:uklChW63947$
+...........
+cleanics:
+db name:egovind_cleanics
+password:51Jo$3)(J*fh
+
+
+
+username:egovind_cleanics
+
+----------------------------********
+127.0.0.1
+uppal;
+db name: egovind_uppal
+pwd: egovind_uppal
+
+-----------------------------*******
+
+egovind
+s6Z1#z161df&fr7)m+IR9e
+
+
+-----------------------------********
+
+
+uppal1:::::
+
+egovind_uppal1
+
+------------------
+egovindia.in/cpanel
+http://104.167.9.227:2083/
+login id :  egovind
+pass :  s6Z1#z161df&fr7)m+IR9e
+
+
+
+ --------------
+teaching awards:
+
+.e*uzM3lR;?!
+
+teaching_enroll
+
+
+
+-------------
+***************
+
+
+teachingawards
+
+------
+teachingawards
+ped:h@jd*5dHsvuBrNQWd7UsLkQ
+------
+
+******************
+
+
+ godaddy.com
+user : 97286228
+pwd: Internet@9
+rakshakrewards.com
+*************
+mumbai@pasificinc.com
+pasific@123
+
+
+
+*********************
+NALGONDA SURVEY
+---new----
+https://192.111.148.179:2083
+uid:surveynalgondam
+pwd:VXdp309n@&g17C$u4J7ybf
+
+******************************
+http://phpflow.com/php/simple-pagination-with-php-and-mysql-using-jquery/
+
+************************
+HMWSSB:::
+
+Username: hmwsb
+Password: h3,-3A}[tl-}
+****************************
+Srishubha kalyanam
+----
+ https://168.144.97.45:2083/
+username: srishbhkd
+password: lqYgLtm9bNvyoBINwl
+*********************
+
+municipalservices.in
+municipalservce
+iwes&2dna@i9$4s87G
+101.53.144.81
+
+************************
+boduppalmunicipality.in
+boduppal
+hxe2HW272e
+168.144.97.45
+
+
+*****************
+Bhadrachalam:::
+ bhadrachalamonline.com
+bcmonline
+p694B2045a5Yhyz72l2F
+**********************
+streetvendors(database)
+uid:municipa_mepma
+pwd:N5s0L+_F9lOD
+
+
+***********************
+nalgondamunicipality.in
+----------------
+nalgondamunicipality.in
+id: nalgondamuncpa
+pwd: vhuDxynSNm5lh&26lE&
+
+
+********************
+
+vmax.solutions
+id:vmaxsdmg
+pwd:R9G2kxderD2#6NQ$1MYI1s8M
+
+********************************
+
+tsurbandashboard.in
+id:tsurbandashbrd
+pwd:c]KeN7WxlP9[d@37dg#!1HD
+********************************
+SIDDIPET MUNICIPALITY+++++++
+----
+siddipetmunicipality.in
+id:siddipetmuncpa
+pwd:WUp{,OmHp{Z7
+
+****************************
+telangana LRS BRS
+id:telanganalbrs
+password: k$2i0sz*027{&2bK@87j832jDHdh
+
+****************************
+vmaxindia.com
+vmaxsdmg
+R9G2kxderD2#6NQ$1MYI1s8M
+101.53.144.81
+
+
+**********************
+Recruitment new project
+----------------------
+db:vmaxsdmg_recruitment
+pwd:OFi{X=6hbqXc
+
+
+*************************
+
+**********************
+MEDARAM
+
+medaram.co.in/cpanel
+uid:medaramco
+pwd:s&2*02Rm26J_xb)x3^P(Np
+
+
+**********************
+
+cheyutha database
+uname:tmepma_cheyutha
+pwd:_91,^)=bNXOe
+
+
+***************************
+http://urbandashboard.in/
+
+IP: 192.111.148.179 & Cpanel url
+
+Username: urbandasboard
+Password: f?Mga,I@3o831D$[QJy
+
+
+
+***************************
+AHA NAA PELLANTA
+
+
+DB_name:vmaxsdmg_ahanaapellanta
+Pwd:1RPAA#OPn=CB
+
+
+
+*******************************
+Domain: suryapetaryavysya.org
+Ip: 104.167.9.227
+UserName: suryapetaryavysy
+Password: EfcMd1q$474*687G3
+
+
+*********************************
+MEDARAM
+http://202.65.131.236:2030
+Domain: medaram.co.in
+Username: medaramco
+password: t;WQcAD5T\(1uOm
+
+
+for Mederam Project PhpMyadmin Password and User name
+
+
+
+UserName: medaramco_ESMS
+password: tU?dU5WZp69[
+
+
+
+http://202.65.131.236:2030/pma/   
+user: root
+
+Password: oqPBa8zf0mto
+
+VISITORS DATABASE
+user:medaramco_visitor
+pwd:d5xuDQ3H
+
+*****************
+Boduppal Harithaharam DataBase
+uid:
+pwd:v]34MipO-8-a
+
+
+********************************
+AhanaaPellanta
+
+ahanaapellanta.com
+ahanapelanta
+FW8!8&_Ms@1kd*G
+104.167.9.227
+
+
+*********************
+Medaram new cpanel Details
+104.167.9.227
+
+password:s&2*02Rm26J_xb)x3^P(Np
+username:medaramco
+
+
+
+****************************
+parkingbuddy.in
+username: parkbuddy
+pass: Cc$^2@mMd*r7?oIa
+IP: 101.53.144.81 
+
+********************************
+Meghalaya Database Details::::::::
+uid:tmepma_meghalaya_suh
+pwd:19zke+]M_+jr
+
+
+*********************************
+
+survey.boduppalmunicipality.in
+username:  surveyboduppal
+Password: e5xA@dFWz!b&sJS1a
+101.53.144.81
+
+**for 7000 records report link is http://survey.boduppalmunicipality.in/report1.php
+***********
+
+
+*********
+DataBase
+uid:surveyboduppal_survey
+pwd:.ttCkCf}VSpw
+
+*******************
+webgis.nalgondamunicipality.in
+199.241.185.218 
+webgisnalgondam
+8Ar!ZE1HzOpW
+
+
+******************************
+https://199.241.185.218:2083
+webgis.sircillamunicipality.in
+Cpanel login
+uid:webgissircillamu
+pwd:(HzvwnV4=NCW
+
+
+Database:
+uid:webgissi_sircill
+pwd;pf0nSlux9lP
+
+
+*********************
+wayy.in
+wayy
+ik1+s~7My*L!hsa.bhcv#45
+101.53.144.81
+************************
+ESTP Database Details
+uid:tmepma_estp
+pwd:I.qM5ABe3QU{
+**********************************Feeder(F) / Dist(D)
+
+
+select count(single1.no_floor) as sn, single1.* from (
+(select no_floor, date from nalgonda_survey where no_floor = 'Single') as single1
+left join
+(select no_floor, date from nalgonda_survey where no_floor = 'G+1') as g1
+on single1.date = g1.date)
+where date <> '' group by single1.date
+
+
+*****************
+2539 gis_id(photos/ashwini_docs_20Nov2016_164353.jpg)
+4705 gis_id(photos/prashanthi_docs_22Nov2016_160808.jpg)
+
+37722E(photos/naresh_docs_04Feb2017_123120.jpg)
+37722F(photos/naresh_docs_04Feb2017_124152.jpg)
+37722L(photos/naresh_docs_04Feb2017_131909.jpg)
+37722K(photos/naresh_docs_04Feb2017_131329.jpg) 
+            $(wrapper).append('<div><input type="text" name="mytext[]"/><a href="#" class="remove_field">Remove</a></div>'); //add input box
+8297665610
+
+photos/yellaswamy_docs_17Feb2017_160918.jpg(2692)
+photos/2692yellaswamy_docs_17Feb2017_160918.jpg
+photos/48584a4b1dcd-a941-4452-aa72-dfec52f06510.jpg(4858)
+photos/2692WhatsApp Image 2017-02-23 at 13.16.47.jpeg(2692)
+photos/sateesh_docs_09Mar2017_120901.jpg(51488)
+
+26086:photos/26086IMG-20170725-WA0011.jpg
+
+
+
+
+*****************
+nalgonda Survey EODB (database)
+
+id:surveynalgondam_eodb
+pwd:76hL34~u-0yI
+***********************
+mckarimnagar.in
+mckrmr
+w;M[zM2LXD=u 
+
+**************************
+
+
+
+
+
+
+
+select n.gis_id,n.elec_ward_no,n.surname_owner,n.name_owner,n.fname_owner,n.aadhar_owner,n.mobile_owner,n.door_no,n.street,n.type_locality,n.zone_no,n.rev_ward_no,n.block_no,s.floor_no,s.length,s.width,s.area,s.floor_usage_type,s.type_construction,s.occupation,n.building_permission,n.building_year,n.floor_type,n.roof_type,n.wall_type,n.wood_type,n.property_tax_no,t.gis_id,t.amount FROM nalgonda_survey n,survay s,ward_wise_tax1 t 
+where n.gis_id=s.gis_id and n.gis_id=t.gis_id and n.gis_id in() and n.gis_id not in();
+
+
+
+
+select n.gis_id,n.elec_ward_no,n.surname_owner,n.name_owner,n.fname_owner,n.gdb_surname_owner,n.gdb_name_owner,n.gdb_owner_fname,n.aadhar_owner,n.mobile_owner,n.door_no,n.street,n.type_locality,n.zone_no,n.rev_ward_no,n.block_no,s.floor_no,s.length,s.width,s.area,s.floor_usage_type,s.type_construction,s.occupation,n.building_permission,n.building_year,n.floor_type,n.roof_type,n.wall_type,n.wood_type,n.property_tax_no,t.gis_id,t.amount FROM nalgonda_survey n,survay s,ward_wise_tax2 t 
+where n.gis_id=s.gis_id and n.gis_id=t.gis_id and n.gis_id in() and n.gis_id not in();
+
+
+
+
+<!-- {if $uid eq 'admin1' || $uid eq 'nalgonda'}-->
+
+
+
+
+
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.9/jquery-ui.js"></script>
+
+<script>
+$(function() {
+    $( ".datepick" ).datepicker({changeMonth:true,changeYear:true,dateFormat: 'dd-mm-yy'});
+});
+</script>
+
+
+
+
+s
+
+=CONCATENATE("update  survey_update set name_as_per_govt_db ='",B2,"', surname_as_per_govt_db = '",C2,"', owner_father_as_govt = '",D2,"', half_yearly_tax_as_per_govt_db='",E2,"', block_no_as_govt ='",F2,"' where door_no='",A2,"';")
+
+
+
+=CONCATENATE("update  townprofile set year_of_const='",A3,"', grade2= '",C3,"', area='",D3,"'  where ulbid=",F3,";")
+
+
+
+=CONCATENATE(http://tsurbandashboard.in/EODB_buildingpermissions/ulb_headers/B2)
+
+=CONCATENATE("insert into  bank_details (ifsc_code,bank_name,bank_id,micr_code,branch_name,address,contact,city,district,state)values('",A1,"','",B1,"','",C1,"','",D1,"','",
+
+
+=CONCATENATE("insert into  users (user_name, user_id, password, user_type, zone_id, circle_id, ulbid)values('",B1,"','",C1,"',PASSWORD('",D1,"'),'",E1,"','",F1,"','",G1,"','",H1,"');")
+
+
+
+=CONCATENATE("update  townprofile set comm_name='",C2,"' where ulbid='",A2,"';")
+
+
+
+gdb_surname_owner
+gdb_name_owner
+gdb_owner_fname		
+gdb_door_no	
+gdb_rev_ward	varchar(10)	latin1_swedish_ci		No	None			 Change Change	 Drop Drop	
+gdb_block_no	int(11)			No	None			 Change Change	 Drop Drop	
+gdb_zone_no	varchar(10)	latin1_swedish_ci		No	None			 Change Change	 Drop Drop	
+gdb_locality	varchar(100)	latin1_swedish_ci		No	None			 Change Change	 Drop Drop	
+gdb_plinth_area	varchar(200)	latin1_swedish_ci		No	None			 Change Change	 Drop Drop	
+gdb_fixed_pt	varchar(100)	latin1_swedish_ci		No	None			 Change Change	 Drop Drop	
+gdb_fixed_lcs	varchar(100)	latin1_swedish_ci		No	None			 Change Change	 Drop Drop	
+gdb_fixed_uac	varchar(100)	latin1_swedish_ci		No	None			 Change Change	 Drop Drop	
+gdb_totalpt_half_year	varchar(100)	latin1_swedish_ci		No	None			 Change Change	 Drop Drop	
+gdb_assessment_no
+
+
+
+
+
+number_format(($row['Cumulativeachievement']/$row['TOTAL_TAR'])*100,2)
+
+
+
+AMRUTH--1(fullcontent_pages/AMRUT/amruth_smartcities.php)
+--2smartcityprogress.php
+--3pages/TUFIDC/amruth_smartcities.php
+
+ 
+ https://www.youtube.com/watch?v=ZuCUc6v9u94
+
+
+
+
+<div class="p" style="display:none;">Data retrieved via web service as on:<?php echo $date;?> time:<?php echo $time;?></div>
+ 
+<div style="float:right; margin:5px;" id="click"><img src="images/right_arrow.png"/></div>
+
+
+
+
+“tsurbandashbrd_eodb_buildingpermission
+
+pwd:JQZo?Oa5s!mk
+
+
+
+
+
+
+
+
+
+
+
+
+KONDA SRINIVAS---------
+EODB_PHOTO/image_2017-06-17-14-07-17_594537953f375G1 124,ba.no.141(2015-16 aug)-3.jpg
+
+koppurupu uppalreddy----------
+EODB_PHOTO/image_2017-06-17-14-33-20_59453db088bddG1 126,ba.no.143(2015-16 aug)-3.jpg
+
+
+Bejugam pawan kumar----------
+EODB_PHOTO/image_2017-06-17-14-39-03_59453f0717045g1 511 ,ba.no.27(2015-16 july)-1.jpg
+
+REDDY VIJAYA BHASKER REDDY----------
+EODB_PHOTO/image_2017-06-17-14-49-38_594541821c8e9g1 513,ba.no.56(2015-16 july)-4.jpg
+
+
+THOTA SHRAVAN KUMAR-----------
+EODB_PHOTO/image_2017-06-17-14-53-08_5945425449ec6G1 514,b.no.24(2015-16 july)-4.jpg
+
+
+DESHETTI CHAKRAVARTHI----------
+EODB_PHOTO/image_2017-06-17-14-56-38_59454326e1ac3G2 516,ba.no.23(2015-16 july)-1.jpg
+
+KOMURAVELLY VIJAYA-----------------
+EODB_PHOTO/image_2017-06-17-15-12-23_594546d786e35G1 583 ba.no.90(2015-16 nov)-2.jpg
+
+
+VEERAMALLU RAJESHAM--------------
+EODB_PHOTO/image_2017-06-17-15-15-32_59454794c0573g1 573,ba.no.124(2015-16 nov)-2.jpg
+
+
+SIDDULA YASHODA---------
+EODB_PHOTO/image_2017-06-17-15-21-17_594548ed3df56G1 619,ba.no.127(2015-16 nov)-3.jpg
+
+KONETI SAMMIAH---------
+EODB_PHOTO/image_2017-06-17-15-23-40_5945497c9063fG1 616,ba.no.68(2015-16 nov)-4.jpg
+
+
+GADAGONI MOHAN------------
+EODB_PHOTO/image_2017-06-17-15-26-57_59454a41d9124G1 625,ba.no.128(2015-16 nov)-3.jpg
+
+
+SMT. DEVULAPALLY MADUMATHI---------------
+EODB_PHOTO/image_2017-06-19-05-12-53_59475d5585efbg1 630,ba.no.70(2015-16 nov)-4.jpg
+
+
+
+
+postmaster@$mailgunDomain
+
+
+Photos/WARD_32/32_2/179.JPG
+
+
+
+
+
+
+
+
+onkeypress="getProducts(this.value);"
+
+
+
+
+
+*********************
+
+ULB MRMS DataBase
+
+uid:municipalservce_mrms
+pwd:SbLKEEcwF]oO
+
+
+
+CONVERT TO CAPITAL LETTERS
+<script>
+function caps(element)
+{
+    
+element.value = element.value.toUpperCase();
+
+}
+
+</script>
+
+
+
+
+
+
+
+
+*5D66E7BC41394EA76AA3CC75BDAEB8C604A6DDEC
+
+
+Data Inserting from .txt file
+----------------------------------
+----------------------------------
+
+
+<?php
+$myFile = "C_CAM_CAM_20180113_134202.txt";
+$lines = file($myFile);//file in to an array
+//var_dump($lines);
+
+unset($lines[0]);
+unset($lines[1]); // we do not need these lines.
+
+
+foreach($lines as $line) 
+{
+	
+    $var = explode(',', $line);
+	
+	echo "intime".$var[4]."Outime".$var[5];
+	echo "<br>";
+   
+}
+
+/*foreach($lines as $row) {
+    // check if the format of this row is correct
+    if(preg_match('/^([^:]*): (.*)$/', $row, $matches)) {
+        // get matched data - key and value
+        $data[$matches[1]] = $matches[2];
+    }
+}*/
+
+//print_r($arr);
+
+?>
+
+
+
+
+9676364939
+
+jxFvI5roASt6
+
+
+
+Charset-------Regional languages
+
+mysqli_query($conn,'SET character_set_results=utf8');
+	mysqli_query($conn,'SET names=utf8');
+	mysqli_query($conn,'SET character_set_client=utf8');
+	mysqli_query($conn,'SET character_set_connection=utf8');
+	mysqli_query($conn,'SET character_set_results=utf8');
+	mysqli_query($conn,'SET collation_connection=utf8_general_ci');
+
+
+
+
+
+
+
+
